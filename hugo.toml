@@ -9,7 +9,7 @@ theme = "PaperMod"
   defaultTheme = "dark"
   disableThemeToggle = true
   ShowCodeCopyButtons = true
-  disableSpecial1stPost = false
+  disableSpecial1stPost = true
   [params.profileMode]
     enabled = false
   [params.footer]
