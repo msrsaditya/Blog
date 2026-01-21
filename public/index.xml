@@ -6,14 +6,16 @@
     <description>Recent content on Shashank&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 14:52:55 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:16:38 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Wed, 21 Jan 2026 14:52:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
+      <title>Welcome to My Blog!</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Wed, 21 Jan 2026 15:16:38 +0530</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Shashank. I created this blog to share my thoughts about&amp;hellip; everything? Mostly tech, philosophy, and life, I guess.&lt;/p&gt;
+&lt;p&gt;I think the world is going to be fundamentally changed because of AI. I think the dead internet theory is going to be ever more real than it is right now because of this.&lt;/p&gt;
+&lt;p&gt;And authenticity is ever more important in such a world. So, I want to write this blog without using any AI (well, kinda).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

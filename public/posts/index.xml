@@ -6,13 +6,13 @@
     <description>Recent content in Posts on Shashank&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 14:52:55 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:16:38 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Wed, 21 Jan 2026 14:52:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <title>Welcome to My Blog</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Wed, 21 Jan 2026 15:16:38 +0530</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
       <description></description>
     </item>
   </channel>
